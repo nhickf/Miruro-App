@@ -2,8 +2,9 @@
 
 <p align="center">  
 This project allows users to watch their favorite anime in android tv (for now) , mobile app version is currently on development. 
-Powered by Anilist API and Miruro.TV
 </p>
+
+<h1 align="center"> Powered by Anilist API and Miruro.TV</h1>
 
 ## App Preview
 Dashboard 
