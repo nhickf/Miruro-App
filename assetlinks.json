@@ -1,0 +1,25 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.creativegrpcx.miruroapp",
+    "sha256_cert_fingerprints":
+    ["D0:EE:FC:FB:69:B3:85:77:5A:63:1E:AC:FF:B4:87:CC:31:41:EE:62:D3:14:63:E9:A9:14:31:C4:9E:DF:23:F3"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://github.com"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.creativegrpcx.miruroapp",
+    "sha256_cert_fingerprints":
+    ["D0:EE:FC:FB:69:B3:85:77:5A:63:1E:AC:FF:B4:87:CC:31:41:EE:62:D3:14:63:E9:A9:14:31:C4:9E:DF:23:F3"]
+  }
+}]
