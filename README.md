@@ -1,7 +1,7 @@
 <h1 align="center">Miruro App</h1>
 
 <p align="center">  
-This project allows users to watch their favorite anime in android tv (for now) , mobile app version is currently on development. 
+This project allows users to watch their favorite anime in android tv and mobile. 
 </p>
 
 <h1 align="center"> Powered by Anilist API and Miruro.TV</h1>
