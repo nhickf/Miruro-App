@@ -7,7 +7,7 @@ This project allows users to watch their favorite anime in android tv and mobile
 <h1 align="center"> Powered by Anilist API and Miruro.TV</h1>
 
 ## App Support
- - Android TV, Mobile , Tablets and Flips (Please use the specific .apk file to base on your needs)
+ - Android TV, Mobile , Tablets and Flips (Please use the specific .apk file)
  - Android Version 8 +
 
 ## App Preview
